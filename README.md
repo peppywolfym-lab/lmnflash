@@ -1,4 +1,4 @@
-# lmnflash
+# 00923155667976
 
 Flashing and firmware-lookup utility for Lenovo / Motorola / NEC devices
 (also why this name).
